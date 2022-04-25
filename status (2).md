@@ -6,7 +6,7 @@ Tam Trang
 
 #### Your section leader's name
 
-Tam Trang
+Sky Gao
 
 #### Project title
 
@@ -26,4 +26,4 @@ Player movement and parts of the maze changer bits.
 
 #### What problems, if any, have you encountered?
 
-I’m having a hard time creating the maze. I was wondering if there was an easier way to create a maze rather than just figuring things out on my own. I don’t want to copy others’ work, but can I reference them as a source of how I created the maze?
+Iâ€™m having a hard time creating the maze. I was wondering if there was an easier way to create a maze rather than just figuring things out on my own. I donâ€™t want to copy othersâ€™ work, but can I reference them as a source of how I created the maze?
